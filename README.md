@@ -1,2 +1,3 @@
-# plan_cancun
+# Plan Cancun
+
 Plan Cancun
